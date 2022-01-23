@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My professional work centers on the intersections of mathematics, statistics, health equity and disparities, and data visualization. 
+My work centers on the intersections of mathematics, statistics, health equity and disparities, and data visualization. 
 
 I'm currently working at the Harvard T.H. Chan School of Public Health with [Nancy Krieger](https://www.hsph.harvard.edu/nancy-krieger/) and [Jarvis Chen](https://www.dfhcc.harvard.edu/insider/member-detail/member/jarvis-t-chen-scd/) to understand how complex patterns of discrimination affect people's health using hierarchical/multi-level modeling and causal inference.  We have been working on writing a series of articles about COVID-19 in the United States including the following: 
 
@@ -15,8 +15,6 @@ See more of my publications on my [Google Scholar](https://scholar.google.com/ci
 
 [![image](https://user-images.githubusercontent.com/6935381/150688596-ac084453-8bad-489d-b255-6d4c69f3f65e.png)
 ](https://unsplash.com/photos/hKRh1wL8qV0)
-
-
 
 [![R](https://img.shields.io/badge/--1f65b7?style=flat&logo=r&link=https://github.com/ctesta01/)](https://github.com/ctesta01?tab=repositories&q=&type=&language=r) <span class="" style = ""></span>
 [![Python](https://img.shields.io/badge/--ffe873?style=flat&logo=python&link=https://github.com/ctesta01/)](https://github.com/ctesta01?tab=repositories&q=&type=&language=jupyter+notebook)<span class="" style = ""></span> 

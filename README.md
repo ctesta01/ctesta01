@@ -9,3 +9,7 @@ I'm currently working at the Harvard T.H. Chan School of Public Health with [Nan
 - [US racial and ethnic data for COVID-19 cases: still missing in action](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32220-0/fulltext)
 
 More of my recent publications are on my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&user=_9VD8mkAAAAJ) page.
+
+[![image](https://user-images.githubusercontent.com/6935381/150688201-4a2b27e5-d0c8-4827-a16e-d6c0b4bed7cc.png)](https://ctesta.com/blog/)
+
+Occasionally I blog at https://ctesta.com/blog

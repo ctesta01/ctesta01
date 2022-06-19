@@ -21,6 +21,3 @@ See more of our publications on my [Google Scholar](https://scholar.google.com/c
 [![Stan](https://img.shields.io/badge/-Stan-b2001d?style=flat&logo=stan&link=https://ctesta.com/articles/2021-01/Gaussian-Processes)](https://ctesta.com/articles/2021-01/Gaussian-Processes)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&link=https://twitter.com/_christiantesta/)](https://twitter.com/_christiantesta/) <span class="" style = ""></span>
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ctesta01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-

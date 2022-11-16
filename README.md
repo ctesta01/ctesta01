@@ -20,4 +20,4 @@ See more of our publications on my [Google Scholar](https://scholar.google.com/c
 [![Python](https://img.shields.io/badge/--ffe873?style=flat&logo=python&link=https://github.com/ctesta01/)](https://github.com/ctesta01?tab=repositories&q=&type=&language=jupyter+notebook)<span class="" style = ""></span> 
 [![Stan](https://img.shields.io/badge/-Stan-b2001d?style=flat&logo=stan&link=https://ctesta.com/articles/2021-01/Gaussian-Processes)](https://ctesta.com/articles/2021-01/Gaussian-Processes)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&link=https://twitter.com/_christiantesta/)](https://twitter.com/_christiantesta/) <span class="" style = ""></span>
-
+<a rel="me" href="https://fediscience.org/@ctesta">![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?style=flat&logo=mastodon&logoColor=white)</a> <span class="" style = ""></span>

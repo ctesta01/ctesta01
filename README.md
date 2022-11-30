@@ -4,6 +4,7 @@ My work centers on the intersections of mathematics, statistics, health equity a
 
 I'm currently working at the Harvard T.H. Chan School of Public Health with [Nancy Krieger](https://www.hsph.harvard.edu/nancy-krieger/), [Jarvis Chen](https://www.dfhcc.harvard.edu/insider/member-detail/member/jarvis-t-chen-scd/) and Pamela Waterman to understand how complex patterns of discrimination affect people's health using hierarchical/multi-level modeling and causal inference.  We have been working on writing a series of articles about COVID-19 in the United States including the following: 
 
+- [Relationship of political ideology of US federal and state elected officials and key COVID pandemic outcomes following vaccine rollout to adults: April 2021–March 2022](https://www.thelancet.com/journals/lanam/article/PIIS2667-193X(22)00201-0/fulltext)
 - [COVID-19: US federal accountability for entry, spread, and inequities—lessons for the future](https://link.springer.com/article/10.1007/s10654-020-00689-2)
 - [The Evolving Roles of US Political Partisanship and Social Vulnerability in the COVID-19 Pandemic from February 2020 - February 2021](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3933453)
 - [US racial and ethnic data for COVID-19 cases: still missing in action](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32220-0/fulltext)

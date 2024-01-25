@@ -2,7 +2,9 @@
 
 My work centers on the intersections of mathematics, statistics, health equity and disparities, and data visualization. 
 
-I'm currently working at the Harvard T.H. Chan School of Public Health with [Nancy Krieger](https://www.hsph.harvard.edu/nancy-krieger/), [Jarvis Chen](https://www.dfhcc.harvard.edu/insider/member-detail/member/jarvis-t-chen-scd/) and Pamela Waterman to understand how complex patterns of discrimination affect people's health using hierarchical/multi-level modeling and causal inference.  We have been working on writing a series of articles about COVID-19 in the United States including the following: 
+I'm currently a PhD student in Biostatistics at the Harvard T.H. Chan School of Public Health. 
+
+Until recently, I was working with [Nancy Krieger](https://www.hsph.harvard.edu/nancy-krieger/), [Jarvis Chen](https://www.dfhcc.harvard.edu/insider/member-detail/member/jarvis-t-chen-scd/) and Pamela Waterman to understand how complex patterns of discrimination affect people's health using hierarchical/multi-level modeling and causal inference.  We wrote a series of articles about COVID-19 in the United States including the following: 
 
 - [COVID-19: US federal accountability for entry, spread, and inequities—lessons for the future](https://link.springer.com/article/10.1007/s10654-020-00689-2)
 - [The Evolving Roles of US Political Partisanship and Social Vulnerability in the COVID-19 Pandemic from February 2020 - February 2021](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3933453)
